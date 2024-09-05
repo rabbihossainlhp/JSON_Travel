@@ -1,0 +1,14 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "First_Name": "",
+      "Last_Name": "",
+      "Gmail": "example@gmail.com",
+      "Age": 0,
+      "Password": "",
+      "Confirm_Password": ""
+    }
+
+  ]
+}
